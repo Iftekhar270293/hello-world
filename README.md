@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+Iftekhar here, I like C, C++, C#, JAVA and Python programming languages.
